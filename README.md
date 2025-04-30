@@ -1,6 +1,5 @@
 # Fingerprint Trivialities Detection using Deep Learning
 
-![Fingerprint Analysis](https://via.placeholder.com/800x400?text=Fingerprint+Trivialities+Detection)
 
 ## Project Overview
 
